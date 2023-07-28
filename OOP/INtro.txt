@@ -1,0 +1,7 @@
+Oop(object oriented programming) a computer programming model that organizes software design around data, or objects, rather than functions and logic.
+The basic idea of OOp is to use classes and objects to represent real-world concepts and entities.
+MAIN features
+Encapsulation
+abstraction
+Inheritance
+Polymorphism
